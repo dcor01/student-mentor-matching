@@ -1,5 +1,3 @@
-# student-mentor-matching
-
 # Student-Mentor Matching Algorithm
 A Python script to automate the process of matching student mentees with mentors based on a prioritized set of rules, including age, gender preference, and campus location.
 ## Project Overview
